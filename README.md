@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm AKA Wondervern</h1>
-<h3 align="center">Full Stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Supalakke</h1>
+<h3 align="center">Web Developer - Front End</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wondervernn&label=Profile%20views&color=0e75b6&style=flat" alt="wondervernn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wondervernn" alt="wondervernn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wondervernn" target="blank"><img src="https://img.shields.io/twitter/follow/wondervernn?logo=twitter&style=for-the-badge" alt="wondervernn" /></a> </p>
 
 - 🔭 I’m currently working on [Deals Website](#)
 
@@ -21,7 +16,7 @@
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 How to reach me **wondervern@gmail.com**
+- 📫 How to reach me **supalakke@chr.co.th**
 
 - 📄 Know about my experiences [https://linktr.ee/wondervern](https://linktr.ee/wondervern)
 
@@ -54,7 +49,3 @@
 <p><a href="https://www.buymeacoffee.com/wondervernn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wondervernn" /></a><a href="https://ko-fi.com/wondervernn"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wondervernn" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wondervernn&show_icons=true&locale=en&layout=compact" alt="wondervernn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wondervernn&show_icons=true&locale=en" alt="wondervernn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wondervernn&" alt="wondervernn" /></p>
