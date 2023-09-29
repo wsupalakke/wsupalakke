@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **supalakke@chr.co.th**
 
-- 📄 Know about my experiences [https://linktr.ee/wondervern](https://linktr.ee/wondervern)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
