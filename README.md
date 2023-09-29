@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with [Apps Booking hotels](#)
 
-- 📝 I regularly write articles on [https://linktr.ee/wondervern](https://linktr.ee/wondervern)
-
 - 💬 Ask me about **react, vue and gsap**
 
 - 📫 How to reach me **supalakke@chr.co.th**
